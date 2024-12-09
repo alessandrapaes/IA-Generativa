@@ -32,8 +32,8 @@ elevenlabs
 leonardo.ai
 
 ## 🧐 Processo de Criação
-Inseri duas fotos no app.runwayml.com para a criação de vídeos de 10 segundos a partir das fotos.
-- Uma foto individual minha e outra foto de família
+Inseri uma foto no app.runwayml.com para a criação de vídeos de 10 segundos a partir das fotos.
+- Uma foto individual minha
 A partir de uma foto coloquei fala nesta mesma foto, utilizando o app Eleven Labs
 No site avatarmaker.ai-pro.org criei um avatar a partir da mesma foto que utilizei no app.runwayml.com
 No site leonardo.ai criei imagens de uma cachoeira
@@ -41,11 +41,6 @@ No site leonardo.ai criei imagens de uma cachoeira
 
 ## 🚀 Resultados
 
-https://github.com/user-attachments/assets/9f7ebdb9-c10c-42c2-b6c1-217c9e93e4e7
-
-https://github.com/user-attachments/assets/966b309c-5387-470c-b448-ae640ce8a06c
-
-https://github.com/user-attachments/assets/04f47da1-fcce-4ae6-a356-79983c928838
 
 
 
