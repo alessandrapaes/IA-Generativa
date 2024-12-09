@@ -40,7 +40,17 @@ No site leonardo.ai criei imagens de uma cachoeira
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Resultados IA generativa.docx](https://github.com/user-attachments/files/18054882/Resultados.IA.generativa.docx
+https://github.com/user-attachments/assets/9f7ebdb9-c10c-42c2-b6c1-217c9e93e4e7
+
+https://github.com/user-attachments/assets/966b309c-5387-470c-b448-ae640ce8a06c
+
+
+
+
+https://github.com/user-attachments/assets/04f47da1-fcce-4ae6-a356-79983c928838
+
+
 
 ## 💭 Reflexão 
 A grande maioria dos sites são em Inglês, portanto, saber pelo menos o básico é essencial.
